@@ -1,4 +1,7 @@
 1) Renaming
 2) git add remote
-git remote add origin https://github.com/ВашЛогин/ИмяРепозитория.git
-https://github.com/nebezpeka/user-service.git
+git remote add origin https://github.com/nebezpeka/user-service.git
+
+3) Initialization
+used instruction docs\installing-and-running.md -> Comfortable development (PostgreSQL + TypeORM)
+cp env-example-relational .env

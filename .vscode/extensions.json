@@ -1,6 +1,11 @@
 {
   "recommendations": [
     "yzhang.markdown-all-in-one",
-    "DavidAnson.vscode-markdownlint"
+    "DavidAnson.vscode-markdownlint",
+    "mainawycliffe.view-package-on-npm",
+    "sketchbuch.vsc-packages",
+    "codeandstuff.package-json-upgrade",
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint"
   ]
 }
