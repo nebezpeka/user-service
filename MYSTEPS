@@ -2,7 +2,7 @@
 2) git add remote
 git remote add origin https://github.com/nebezpeka/user-service.git
 
-3) Initialization
+3) Project initialization steps
 used instruction docs\installing-and-running.md -> Comfortable development (PostgreSQL + TypeORM)
 cp env-example-relational .env
 npm install
